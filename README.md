@@ -21,3 +21,17 @@
   The app adjusts its layout for various screen sizes, ensuring a smooth experience on both mobile and desktop devices.
 
 ---
+
+## Screenshots
+
+### All Food Items
+![Screenshot 1](src/Screenshot%202024-12-05%20133307.png)
+
+### Breakfast Available Items
+![Screenshot 2](src/Screenshot%202024-12-05%20133319.png)
+
+###  Lunch Available Items
+![Screenshot 3](src/Screenshot%202024-12-05%20133334.png)
+
+###  Dinner Available Items
+![Screenshot 4](src/Screenshot%202024-12-05%20133345.png)
