@@ -25,13 +25,13 @@
 ## Screenshots
 
 ### All Food Items
-![Screenshot 1](src/Screenshot%202024-12-05%20133307.png)
+![Screenshot 1](src/Screenshot 2024-12-05 133307.png)
 
 ### Breakfast Available Items
-![Screenshot 2](src/Screenshot%202024-12-05%20133319.png)
+![Screenshot 2](src/Screenshot 2024-12-05 133319.png)
 
 ###  Lunch Available Items
-![Screenshot 3](src/Screenshot%202024-12-05%20133334.png)
+![Screenshot 3](src/Screenshot 2024-12-05 133334.png)
 
 ###  Dinner Available Items
-![Screenshot 4](src/Screenshot%202024-12-05%20133345.png)
+![Screenshot 4](src/Screenshot 2024-12-05 133345.png)
