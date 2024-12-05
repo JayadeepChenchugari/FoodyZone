@@ -25,13 +25,14 @@
 ## Screenshots
 
 ### All Food Items
-![Screenshot 1](src/Screenshot 2024-12-05 133307.png)
+![Screenshot 1](https://github.com/JayadeepChenchugari/FoodyZone/blob/main/React-10-Projects-project-4-starter/project-4/starter/app/src/Screenshot%202024-12-05%20133307.png)
 
 ### Breakfast Available Items
-![Screenshot 2](src/Screenshot 2024-12-05 133319.png)
+![Screenshot 2](https://github.com/JayadeepChenchugari/FoodyZone/blob/main/React-10-Projects-project-4-starter/project-4/starter/app/src/Screenshot%202024-12-05%20133319.png)
 
-###  Lunch Available Items
-![Screenshot 3](src/Screenshot 2024-12-05 133334.png)
+### Lunch Available Items
+![Screenshot 3](https://github.com/JayadeepChenchugari/FoodyZone/blob/main/React-10-Projects-project-4-starter/project-4/starter/app/src/Screenshot%202024-12-05%20133334.png)
 
-###  Dinner Available Items
-![Screenshot 4](src/Screenshot 2024-12-05 133345.png)
+### Dinner Available Items
+![Screenshot 4](https://github.com/JayadeepChenchugari/FoodyZone/blob/main/React-10-Projects-project-4-starter/project-4/starter/app/src/Screenshot%202024-12-05%20133345.png)
+
